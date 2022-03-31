@@ -2,7 +2,7 @@ _Short_summary_of_change_
 
 Fixes _urls_to_zube_tickets_
 
-_More_defailed_description_if_needed_
+_More_detailed_description_if_needed_
 
 ### Testing
 
