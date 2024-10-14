@@ -1,12 +1,18 @@
 _Short_summary_of_change_
 
-Fixes _urls_to_zube_tickets_
+Fixes _ticket_url_
+
+Documentation _notion_url_
 
 _More_detailed_description_if_needed_
 
 ### Testing
 
-_Any_setup_required_to_test_it____What_you_tested____Any_additional_testing_needed_
+_Setup_notes_and_what_you_tested_
+
+_Any_additional_dev_testing_needed_
+
+_Any_additional_QA_testing_needed_
 
 ### Security and sensitive data impact
 
