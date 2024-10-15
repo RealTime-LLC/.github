@@ -1,13 +1,19 @@
-_Short_summary_of_change_
+### Links
 
-Fixes _urls_to_zube_tickets_
+Fixes 
+Docs 
 
-_More_detailed_description_if_needed_
+### Description
+
+_A_picture_is_worth_a_thousand_words__drop_some_screenshots_if_youve_got_em_
 
 ### Testing
 
-_Any_setup_required_to_test_it____What_you_tested____Any_additional_testing_needed_
+_Setup_notes_and_what_you_tested_
+
+_Any_additional_dev_testing_needed_
+
+_Any_additional_QA_testing_needed_
 
 ### Security and sensitive data impact
 
-_Any_potential_impact_to_the_security_of_the_system_or_handling_of_sensitive_information_
