@@ -1,10 +1,9 @@
-_Short_summary_of_change_
+### Links
 
-Fixes _ticket_url_
+Fixes: 
+Docs: 
 
-Documentation _notion_url_
-
-_More_detailed_description_if_needed_
+### Description
 
 ### Testing
 
@@ -16,4 +15,3 @@ _Any_additional_QA_testing_needed_
 
 ### Security and sensitive data impact
 
-_Any_potential_impact_to_the_security_of_the_system_or_handling_of_sensitive_information_
