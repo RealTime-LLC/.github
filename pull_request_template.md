@@ -1,19 +1,24 @@
-### Links
-
 Fixes 
-Docs 
 
-### Description
+## Description
 
-_A_picture_is_worth_a_thousand_words__drop_some_screenshots_if_youve_got_em_
 
-### Testing
 
-_Setup_notes_and_what_you_tested_
+## Author Checklist
+### Opening PR
+- [ ] Unit tests added & all tests passing
+- [ ] `$ pnpm fix`
+- [ ] Jira: Description & Acceptance Criteria are up to date
+- [ ] Technical documentation (link in Jira)
 
-_Any_additional_dev_testing_needed_
 
-_Any_additional_QA_testing_needed_
+### Before/after merging
+- [ ] Permissions tested in dev
+- [ ] Jira: Stacks updated
+- [ ] Jira: Deployment Notes updated
+- [ ] Code deployed to staging
+- [ ] QA handoff
 
-### Security and sensitive data impact
+
+## Security and sensitive data impact
 
