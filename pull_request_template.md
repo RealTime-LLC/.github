@@ -13,7 +13,7 @@ Fixes
 
 
 ### Before/after merging
-- [ ] Permissions tested in dev
+- [ ] Final functionality & permissions tested in dev
 - [ ] Jira: Stacks updated
 - [ ] Jira: Deployment Notes updated
 - [ ] Code deployed to staging
